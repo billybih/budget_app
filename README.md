@@ -8,3 +8,5 @@ Features:
 - Change a given category budget at any time
 - Quickly add an expense to a category
 - Spending and budget status per category statistics  
+
+Optimized for Windows
